@@ -1,0 +1,10 @@
+nyc_arrest_data.db
+
+NYPD_Arrests_Data__Historic__20240906.csv
+
+# Ignore Python virtual environment files
+Include/
+Lib/
+Scripts/
+share/
+pyvenv.cfg
